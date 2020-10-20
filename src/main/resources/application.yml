@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: cn-say-hello-msvcs
+
+server:
+  port: 8090
+
